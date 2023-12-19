@@ -2,6 +2,9 @@
 
 Visualize your Data with ease using this Visualization App, which seamlessly transforms JSON data into various chart types. The project consists of two main parts: the Backend, responsible for establishing a connection with a MongoDB database and providing essential APIs to the Frontend, and the Frontend, which fetches data from the Backend, performs computations, and utilizes D3.js to present the data in diverse formats, including bar charts, scatter charts, packed bubble charts, time series plots, and more. The entire application is deployed on Vercel.
 
+# Deployed Link
+https://visualizationapp.vercel.app/
+
 ## Project Overview
 
 The Visualization App is designed to facilitate the transformation of JSON data into visually appealing charts. Here's an overview of its key components:
