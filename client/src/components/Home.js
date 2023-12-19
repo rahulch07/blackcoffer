@@ -46,6 +46,9 @@ export default function Home(props) {
               <div>Fetches all the data from backend.</div>
               <div>Pagination applied(to avoid to much scrolling).</div>
               <div>Easy readability of data.</div>
+              <hr/>
+              <h5 className="h5">Made By</h5>
+              <div>Rahul Chougule, chouguler310@gmail.com, 9594884973</div>
             </div>
           </div>
         </div>
