@@ -24,6 +24,9 @@ mongoose.connect(MONGODB_URI, {
 });
 
 // Routes
+app.get('/',(req, res)=>{
+    res.send("Hello World!!!");
+})
 app.use('/api', dataRoutes);
 app.use('/log', logRoutes);
 
